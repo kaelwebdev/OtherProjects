@@ -1,5 +1,5 @@
-# Personal Proyects
-This is an index of some personal projects.
+# Other Proyects
+this is an index of some of my other projects
 
 ## Index
 
