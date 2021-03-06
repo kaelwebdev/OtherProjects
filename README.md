@@ -21,24 +21,34 @@ This is an index of some of my other projects
   * [image-processing](https://github.com/kaelwebdev/image-processing)  
   Small project that i did a long time ago using image processing and Mathlab.
   
-* **Numeric Methods Web Grapher**
+* **Numeric Methods Web Grapher**  
   Small project that i did a long time ago using numeric methods and web technology.
   
-* **Trigonometric Functions Grapher*
+* **Trigonometric Functions Grapher**  
   Small project that i did a long time ago using trigonometry and Java.
   
-* **Vector Grapher Program**
+* **Vector Grapher Program**  
   Small project that i did a long time ago using vector concept and Java.
   
-* **Image Filtering Program For Oracle Databases**
+* **Image Filtering Program For Oracle Databases**  
   Small project that i did a long time ago using Oracle and Java.
   
+* **AguantAPP**  
+  Small project that i did a long time ago.
+
+* **zulishop**  
+  Small project that i did a long time ago.
+
   
 ### Platzi projects
 * 
 
 ### Udemi projects
 * 
+
+### Youtube  
+* **To do List**
+  * [todolist](https://github.com/kaelwebdev/todolist)
 
 ## Author :copyright:
 * **Carlos Daniel Cortez** - [kaelwebdev](https://github.com/kaelwebdev)
