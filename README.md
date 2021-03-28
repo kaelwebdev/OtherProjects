@@ -1,4 +1,4 @@
-# Other Proyects
+# Other Projects
 This is an index of some of my other projects
 
 ## Index
